@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Tailwind build (CSS compilado)
+dist/style.css
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
